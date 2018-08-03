@@ -138,6 +138,7 @@ main {
 #about-image {
   /* Positioning */
   float: left;
+  size: 310px,310px;
 
   /* Box-model */
   width: 200px;
@@ -148,6 +149,7 @@ main {
 
 /* PORTFOLIO PAGE */
 .port-image {
+  size: 280px, 280px;
   margin: 20px auto;
 }
 /* END PORTFOLIO PAGE */
